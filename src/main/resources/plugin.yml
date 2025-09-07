@@ -1,0 +1,5 @@
+name: AlwaysNightTime
+version: '1.0-SNAPSHOT'
+main: com.normalsmp.alwaysNightTime.AlwaysNightTime
+description: Keeps the world always daytime
+folia-supported: true
